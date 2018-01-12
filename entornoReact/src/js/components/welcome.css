@@ -1,0 +1,28 @@
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+	margin: 0;
+	font-size: 40px;
+	background-color: #13294c;
+	flex-direction: column; 
+	font-family: Arial;
+} 
+
+.WelcomeComponent {
+    color: white;
+	text-align: center;
+}
+
+.WelcomeComponent h1 {
+	font-size: 40px;
+}
+
+.WelcomeComponent p {
+	font-size: 20px;
+}
+
+.WelcomeComponent img {
+	width: 250px;
+}
